@@ -1,3 +1,3 @@
 # graph-nft-marketplace
 
-Decentralized method for intract with contract events
+Decentralized method for interact with contract events
